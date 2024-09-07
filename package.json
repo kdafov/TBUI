@@ -1,0 +1,37 @@
+{
+  "name": "kdafov-tbui",
+  "version": "1.0.1",
+  "description": "The Better User Interface components by kdafov",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdafov/TBUI.git"
+  },
+  "keywords": [
+    "kdafov",
+    "TBUI"
+  ],
+  "author": "K Dafov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdafov/TBUI/issues"
+  },
+  "homepage": "https://github.com/kdafov/TBUI#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.53.0"
+  },
+  "devDependencies": {
+    "@types/css-modules": "^1.0.5",
+    "@types/prop-types": "^15.7.12",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "csstype": "^3.1.3",
+    "typescript": "^5.5.4"
+  }
+}

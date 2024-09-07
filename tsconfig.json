@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./js", // Output directory for compiled JavaScript files
+    "module": "ESNext", // Module system used in Node
+    "target": "es5", // Transpile to ES5 for compatibility
+    "declaration": true, // Generate `.d.ts` files for types
+    "jsx": "react", // Use JSX support for React
+    "esModuleInterop": true, // Enable ES module interoperability
+    "lib": ["dom", "es2015"], // Specify the type definitions to include in the compilation
+    "moduleResolution": "node" // Resolve modules in the node_modules directory
+  },
+  "include": ["./**/*"] // Compile all files
+}
