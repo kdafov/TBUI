@@ -1,4 +1,7 @@
-﻿# The Better User Interface by KDafov
+# STATUS: On hold
+***The support for this project is currently STOPPED.***
+
+# The Better User Interface by KDafov
 
 Hi there! After creating hundreds of components repeatedly, I developed templates for each to boost efficiency and reusability. This package includes a collection of responsive, styled, and production-ready components with basic functionality. You're welcome to contribute by adding new components and/or improving the design of existing ones - just grab the repo from GitHub and let me know so I can incorporate your ideas into the package!
 
