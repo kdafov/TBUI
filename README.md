@@ -1,5 +1,5 @@
 # STATUS: On hold
-***The support for this project is currently STOPPED.***
+***The support for this project is currently ON HOLD.***
 
 # The Better User Interface by KDafov
 
